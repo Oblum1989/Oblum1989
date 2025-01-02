@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**Oblum1989/Oblum1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy **Oscar Blum Carrero**, un desarrollador fullstack apasionado por construir aplicaciones web dinámicas y escalables. 🖥️🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Sobre mí:
+- 🔭 Actualmente trabajando en **La Cocreadora** como Fullstack Rails Developer.
+- 🌱 Aprendiendo y perfeccionando mis habilidades en **TypeScript**, **React**, y **Docker**.
+- 💡 Apasionado por resolver problemas y aprender nuevas tecnologías.
+- 🌍 Buscando siempre colaborar en proyectos interesantes y desafiantes.
+
+---
+
+### 🛠️ Habilidades:
+
+#### 💻 **Lenguajes y Frameworks**:
+- **Frontend**: React, TypeScript, JavaScript, HTML5, CSS3
+- **Backend**: Ruby on Rails, Python (básico)
+- **Bases de Datos**: PostgreSQL, MongoDB
+- **DevOps**: Docker, Heroku
+- **Estilos**: Bootstrap, Tailwind CSS
+
+#### 🔧 **Herramientas y Metodologías**:
+- Git & GitHub  
+- Desarrollo Ágil (Scrum, Kanban)  
+- Testing y Debugging  
+- Gestión de APIs y autenticación  
+
+---
+
+### 📫 Conecta conmigo:
+
+- 📧 **Correo Electrónico**: oscar.blum@gmail.com  
+- 🌐 **LinkedIn**: [linkedin.com/in/oscarblumcarrero](https://linkedin.com/in/oscarblumcarrero)  
+- 🐙 **GitHub**: [github.com/Oblum1989](https://github.com/Oblum1989)  
+
+---
+
+¡Gracias por visitar mi perfil! 😊 Siempre estoy abierto a colaborar y aprender juntos. 🚀
