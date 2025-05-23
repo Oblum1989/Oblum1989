@@ -9,7 +9,8 @@
 - 🌱 Aprendiendo y perfeccionando mis habilidades en **TypeScript**, **React**, y **Docker**.
 - 💡 Apasionado por resolver problemas y aprender nuevas tecnologías.
 - 🌍 Buscando siempre colaborar en proyectos interesantes y desafiantes.
-
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Oblum1989&theme=dark&locale=es&short_numbers=true)](https://git.io/streak-stats)
 ---
 
 ### 🛠️ Habilidades:
